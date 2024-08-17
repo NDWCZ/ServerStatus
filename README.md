@@ -5,7 +5,7 @@
     <img alt="logo" src="https://ghproxy.com/github.com/zsuroy/ServerStatus-Tiny/blob/main/logo.svg"/>
   </p>
 
-  <h1>ServerStatus-Tiny</h1>
+  <h1>ServerStatus-adb</h1>
   <p>多服务器一站式监控平台</p>
 
   <p>
@@ -26,7 +26,7 @@
 ******
 
 > 
-> ServerStatus-Tiny
+> ServerStatus-adb
 > 
 > 多服务器探针监控平台便携版
 >
