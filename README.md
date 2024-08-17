@@ -6,7 +6,7 @@
   </p>
 
   <h1>ServerStatus-adb</h1>
-  <p>多服务器一站式监控平台</p>
+  <p>安卓 CDN 卓监控平台</p>
 
   <p>
     <a href="https://suroy.cn"><img alt="SUROY(BLOG)" src="https://img.shields.io/website?down_message=FLOWER&label=SUROY&up_color=ff69b4&up_message=DREAM&logo=micro:bit&url=https%3A%2F%2Fsuroy.cn"></a>
