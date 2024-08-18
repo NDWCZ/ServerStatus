@@ -32,9 +32,9 @@
 >
 > 2022.10.1
 
-1. 基于 ServerStatus-Hotaru 开发
-2. `开发` 后端为 `PHP` 接口，以实现 `Windows/Linux` **均可架设服务端**
-3. `小改` UI界面-VUE，优化卡片显示
+1. 基于 ServerStatus-Tiny 修改
+2. 后端保留为 `PHP` 接口，以实现 `Windows/Linux` **均可架设服务端**
+3. 保留UI界面-VUE，优化卡片显示
 4. `增加` 各操作系统旗帜：含树莓派(`Raspberry`)、`Termux`、`Linux` 等
 5. `增加` 双栈 `IPV6/IPV4` 监控支持、增加国内服务器在线监控支持
 6. `增加` 单个服务器监控IP地址数据、在线时间字段
