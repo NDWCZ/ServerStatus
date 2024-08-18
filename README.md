@@ -18,7 +18,13 @@
   </p>
 </div>
 
+******
 
+## 🤡前言
+修改这个项目主要是由于原项目在安卓环境不能获取部分参数。；
+
+---
+ps: 写 `shell` 脚本时............我也是一言难尽🤦‍♂️
 
 
 ## 🗒️简介说明
@@ -46,14 +52,6 @@
 _演示图_
 ![ServerStatus_Tiny](https://ghproxy.com/github.com/zsuroy/ServerStatus-Tiny/blob/main/ServerStatus-Tiny.png)
 
-
-******
-
-## 🤡前言
-修改这个项目主要是由于原项目在安卓环境不能获取部分参数。；
-
----
-ps: 写 `shell` 脚本时............我也是一言难尽🤦‍♂️
 
 
 ## 🎲使用说明
