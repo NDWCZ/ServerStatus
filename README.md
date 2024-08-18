@@ -5,7 +5,7 @@
     <img alt="logo" src="https://ghproxy.com/github.com/zsuroy/ServerStatus-Tiny/blob/main/logo.svg"/>
   </p>
 
-  <h1>ServerStatus-adb</h1>
+  <h1>ServerStatus</h1>
   <p>安卓 CDN 监控平台</p>
 
   <p>
@@ -26,9 +26,9 @@
 ******
 
 > 
-> ServerStatus-adb
+> ServerStatus
 > 
-> 多服务器探针监控平台便携版
+> 多节点探针监控平台
 >
 > 2022.10.1
 
